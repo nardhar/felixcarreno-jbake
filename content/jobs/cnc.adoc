@@ -1,0 +1,9 @@
+title=National Chamber of Commerce
+date=2017-07-02
+period=From Jan-2008 till dic-2008
+type=job
+status=published
+~~~~~~
+
+Another administrative and finance software, this time a desktop one
+and some other stuff I would like to forget

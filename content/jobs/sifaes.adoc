@@ -1,0 +1,8 @@
+title=Gas Station Invoicing Software
+date=2017-07-04
+period=From Feb-2009 till Agu-2009
+type=job
+status=published
+~~~~~~
+
+Programmed some utility software in Java and PHP, here I was introduced to CakePHP

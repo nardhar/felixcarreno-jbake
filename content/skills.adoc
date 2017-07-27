@@ -1,0 +1,21 @@
+title=Skills
+date=2017-07-02
+type=page
+status=published
+~~~~~~
+
+I have worked with C++ (For ACM competing), Java, .NET Framework,
+Ruby on Rails and PHP in the past, now I'm totally inmersed in Groovy,
+and of course Grails Framework, why? because I think Groovy is a language
+that can simplify so many things for the JVM, like this:
+
+[source,groovy]
+--
+def isNickname = { it == 'nardhar' }
+assert ['felix', 'nardhar', 'carreño'].inject([]) { fullName, name ->
+    isNickname.call(name) ? fullName : fullName + [name.capitalize()]
+}.join(' ') == 'Felix Carreño'
+--
+
+And Grails? well, it simplifies so many things from Spring Framework
+for building web-apps, I feel it is like a plug and play development environment

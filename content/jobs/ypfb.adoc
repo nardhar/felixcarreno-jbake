@@ -1,0 +1,8 @@
+title=Yacimientos Petrolíferos Fiscales Bolivianos
+date=2017-07-07
+period=From Dec-2010 till Jun-2017
+type=job
+status=published
+~~~~~~
+
+Programmed some utility software in Java and PHP, here I was introduced to CakePHP
