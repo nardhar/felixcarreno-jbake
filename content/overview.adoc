@@ -9,5 +9,3 @@ applications but also desktop applications should the ocassion arise
  
 I have 11 years of professional experience having worked with a variety of
 popular languages, although recently I'm pretty profficient with Groovy
- 
-You can mail me at mailto:felix.carreno@gmail.com[felix.carreno@gmail.com]
