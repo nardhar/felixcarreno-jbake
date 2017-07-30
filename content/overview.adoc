@@ -1,0 +1,11 @@
+title=Overview
+date=2017-07-01
+type=page
+status=published
+~~~~~~
+
+I'm a full stack Software Developer based in Bolivia, mainly building web
+applications but also desktop applications should the ocassion arise
+ 
+I have 11 years of professional experience having worked with a variety of
+popular languages, although recently I'm pretty profficient with Groovy
