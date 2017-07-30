@@ -1,8 +1,0 @@
-title=Chaco Hidrocarburos
-date=2017-07-05
-period=From Oct-2009 till Jan-2010
-type=job
-status=published
-~~~~~~
-
-Programmed some utility software in Java and PHP, here I was introduced to CakePHP

@@ -4,18 +4,21 @@ type=page
 status=published
 ~~~~~~
 
-I have worked with C++ (For ACM competing), Java, .NET Framework,
-Ruby on Rails and PHP in the past, now I'm totally inmersed in Groovy,
-and of course Grails Framework, why? because I think Groovy is a language
-that can simplify so many things for the JVM, like this:
+I have worked with C++ (For ACM competing), Java, .NET Framework, Ruby on Rails
+and PHP in the past, now I'm totally inmersed in Groovy, and of course Grails
+Framework, why? because I think Groovy is a language that can simplify so many
+things for the JVM, like this:
 
 [source,groovy]
 --
-def isNickname = { it == 'nardhar' }
-assert ['felix', 'nardhar', 'carreño'].inject([]) { fullName, name ->
-    isNickname.call(name) ? fullName : fullName + [name.capitalize()]
+def isName = { it != 'sotfware' }
+assert ['felix', 'sotfware', 'carreño'].inject([]) { fullName, name ->
+    isName.call(name) ? fullName : fullName + [name.capitalize()]
 }.join(' ') == 'Felix Carreño'
 --
 
-And Grails? well, it simplifies so many things from Spring Framework
-for building web-apps, I feel it is like a plug and play development environment
+And Grails? well, it simplifies so many things from Spring Framework for
+building web-apps, I feel it is like a plug and play development environment
+
+Now I am learning other technologies, and better ways to integrate Grails with
+them, it may be a rough road, but a nice challenge is always welcome

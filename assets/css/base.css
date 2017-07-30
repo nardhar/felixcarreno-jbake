@@ -4,6 +4,7 @@
 html,
 body {
   height: 100%;
+  background-color: #eee;
   /* The html and body elements cannot have any padding or margin. */
 }
 
@@ -50,3 +51,18 @@ body {
 /*code {
   font-size: 80%;
 }*/
+h1.name,
+h2.name{
+    margin: 5px 0;
+    line-height: 1.4;
+}
+
+@media only screen and (min-width: 768px) {
+    .panel-body-photo {
+        position: relative;
+    }
+    .panel-body-photo a {
+        float: left;
+        margin-right: 30px;
+    }
+}

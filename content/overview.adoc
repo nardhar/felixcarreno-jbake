@@ -7,10 +7,7 @@ status=published
 I'm a full stack Software Developer based in Bolivia, mainly building web
 applications but also desktop applications should the ocassion arise
  
-I have 11 years of professional experience having worked with a variety
-of popular languages, although recently I'm pretty profficient with Groovy
+I have 11 years of professional experience having worked with a variety of
+popular languages, although recently I'm pretty profficient with Groovy
  
-You can mail me at mailto:felix.carreno@gmail.com[felix.carreno@gmail.com],
-follow me on Twitter at http://twitter.com/nardharmure[@nardharmure] or read my
-blog at http://nardhar.org[nardhar.org] (See why I use a nickname
-in my *Bio*)
+You can mail me at mailto:felix.carreno@gmail.com[felix.carreno@gmail.com]

@@ -4,17 +4,8 @@ type=page
 status=published
 ~~~~~~
 
-I am 32 years old, and I love to view a successful project that acomplishes
-its purpose in the best possible way, no matter how hard the work is.
+I am 32 years old, and I love to view a successful project that acomplishes its
+purpose in the best possible way.
  
-I believe that Open Source movement is something that can truly change
-the world, although I am not that expert in sharing code but that will change soon.
- 
-So why Nardhar? well, I am a so called geek that enjoys videogames, anime,
-sci-fi/fantasy tv-shows/movies, comic books, and tabletop games such as
-Warhammer 40k, so in the spirit of the latter I had to give a name to my
-Eldar Farseer (the commander of my army) so it came the name "Nardhar
-from the clan Shamure", "Nardhar Mure" for short or simply "Nardhar", and
-since then I had used that name for myself all over the internet (I did not
-want to share my real name), never explaining why (until now), so if you see
-a Nardhar over there it is probably me or maybe not.
+I believe that Open Source movement is something that can truly change the
+world, although I am not that expert in sharing code but that will change soon.
