@@ -11,8 +11,8 @@ things for the JVM, like this:
 
 [source,groovy]
 --
-def isName = { it != 'sotfware' }
-assert ['felix', 'sotfware', 'carreño'].inject([]) { fullName, name ->
+def isName = { it != 'software' }
+assert ['felix', 'software', 'carreño'].inject([]) { fullName, name ->
     isName.call(name) ? fullName : fullName + [name.capitalize()]
 }.join(' ') == 'Felix Carreño'
 --
