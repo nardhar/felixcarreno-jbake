@@ -5,8 +5,8 @@ status=published
 ~~~~~~
 
 I am 32 years old, and I love to work in a project that acomplishes its
-purpose in the best possible way, but obviously not everything ends up great
-although anyone can see the beauty in the code
+purpose in the best possible way, obviously not everything ends up great
+but I am always trying to improve myself and my code
 
 In my spare time I play videogames and do all kind of geek stuff, including
 attempts of learning new things just for fun.

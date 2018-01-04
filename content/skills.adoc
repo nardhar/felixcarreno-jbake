@@ -5,7 +5,7 @@ status=published
 ~~~~~~
 
 I have worked with C++ (For ACM competing), Java, .NET Framework, Ruby on Rails
-and PHP in the past, now I'm totally inmersed in Groovy, and of course Grails
+and PHP in the past, now I am a Groovy fan, and of course Grails
 Framework, why? because I think Groovy is a language that can simplify so many
 things for the JVM, like this:
 
@@ -20,5 +20,6 @@ assert ['felix', 'software', 'carreño'].inject([]) { fullName, name ->
 And Grails? well, it simplifies so many things from Spring Framework for
 building web-apps, I feel it is like a plug and play development environment
 
-Now I am learning other technologies, and better ways to integrate Grails with
-them, it may be a rough road, but a nice challenge is always welcome
+Now I am learning NodeJS and everything it has to offer, from backend to frontend
+development, it may be a rough road (since I come from very OOP languages),
+but a nice challenge is always welcome
