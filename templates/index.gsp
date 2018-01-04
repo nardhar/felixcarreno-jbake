@@ -20,9 +20,11 @@
           <div class="col-sm-2"><h3>Connect</h3></div>
           <div class="col-sm-10">
             <p>
-                <a href="https://github.com/nardhar" style="color: #333"><i class="fa fa-github fa-2x"></i></span></a>
+                <a href="https://twitter.com/nardharmure" style="color: #32CCFE"><i class="fa fa-twitter-square fa-2x"></i></span></a>
                 <a href="https://plus.google.com/+NardharMure" style="color: #DC4D3F"><i class="fa fa-google-plus-square fa-2x"></i></span></a>
-                <a href="mailto:felix.carreno@gmail.com" style="color: #666"><i class="fa fa-envelope-o fa-2x"></i></span></a>
+                <a href="https://github.com/nardhar" style="color: #333"><i class="fa fa-github fa-2x"></i></span></a>
+                <a href="https://nardhar.org" style="color: #CF3D2E"><i class="fa fa-rss fa-2x"></i></span></a>
+                <a href="mailto:felix@felixcarreno.com" style="color: #666"><i class="fa fa-envelope-o fa-2x"></i></span></a>
             </p>
             <p>
                 If you see a nickname, do not worry, it is me.
