@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="utf-8"/>
     <title>Felix Carreño's resumé</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -27,7 +27,6 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">-->
     <link rel="shortcut icon" href="<%if (content.rootpath) {%>${content.rootpath}<% } else { %><% }%>favicon.ico">
-  </head>
-  <body onload="prettyPrint()">
+</head>
+<body onload="prettyPrint()">
     <div id="wrap">
-   
