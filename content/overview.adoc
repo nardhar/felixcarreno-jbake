@@ -5,7 +5,7 @@ status=published
 ~~~~~~
 
 I'm a full stack Software Developer based in Bolivia, mainly building web
-applications but also desktop applications should the ocassion arise
+applications but also desktop applications should the occasion arise
 
 I have 14 years of professional experience having worked with a variety of
 popular languages, although recently I'm pretty good working with Groovy,
