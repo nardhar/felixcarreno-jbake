@@ -4,11 +4,11 @@ type=page
 status=published
 ~~~~~~
 
-I am 32 years old, and I love to work in a project that acomplishes its
+I am 35 years old, and I love to work in a project that accomplishes its
 purpose in the best possible way, obviously not everything ends up great
-but I am always trying to improve myself and my code
+but I am always trying to improve myself and my code.
 
-In my spare time I play videogames and do all kind of geek stuff, including
+In my spare time I play video games and do all kind of geek stuff, including
 attempts of learning new things just for fun.
 
 I am a free software supporter and believe that everything can be improved
