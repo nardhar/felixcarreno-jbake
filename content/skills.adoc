@@ -56,15 +56,16 @@ list.add("javascript");
 list.add("english");
 list.add("groovy");
 
-List<String> result = list.stream()
-    .filter(filterName)
-    .map(capitalizeName)
-    .collect(Collectors.toList());
-
-System.out.println(result);
+System.out.println(
+    list.stream()
+        .filter(filterName)
+        .map(capitalizeName)
+        .collect(Collectors.toList())
+);
 // output = [Javascript, Groovy]
 --
 
 One of the best things is that we can reuse *filterName* and *capitalizeName*
-functions (or closures in Groovy) in any other algorithms we want, but of course
-functional programming is much more than that, and I am all into it.
+functions (or closures in Groovy) as parameters for the filter and map higher-order
+functions of any Array, but of course functional programming is much more than
+that, and I am all into it.
