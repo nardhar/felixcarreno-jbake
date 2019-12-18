@@ -5,21 +5,66 @@ status=published
 ~~~~~~
 
 I have worked with C++ (For ACM competing), Java, .NET Framework, Ruby on Rails
-and PHP in the past, now I am a Groovy fan, and of course Grails
-Framework, why? because I think Groovy is a language that can simplify so many
-things for the JVM, like this:
+PHP, Groovy and Grails Framework in the past, well, I keep doing thins in Grails,
+it is a really good framework, but now I am experimenting more with Micronaut,
+Vert.x and Node.js for backend and Vue.js for frontend development.
 
+I really like applying design and architectural patterns in my code, but as usual
+it is always easier to say it than to do it, so here I am in the process of learning
+new things and improving my skills at software development.
+
+One thing that I really like in Groovy and applied better in Node.js is functional
+programming, I think it really helps at building simpler and more composable code,
+for example we could use the following code (in Groovy, Javascript and Java) for
+selecting all the texts that are programming languages and capitalize them:
+
+*Groovy*
 [source,groovy]
 --
-def isName = { it != 'software' }
-assert ['felix', 'software', 'carreño'].inject([]) { fullName, name ->
-    isName.call(name) ? fullName : fullName + [name.capitalize()]
-}.join(' ') == 'Felix Carreño'
+def filterName = { it != 'english' }
+def capitalizeName = { it.capitalize() }
+
+println ['javascript', 'english', 'groovy']
+  .findAll(filterName)
+  .collect(capitalizeName)
+// output = [Javascript, Groovy]
 --
 
-And Grails? well, it simplifies so many things from Spring Framework for
-building web-apps, I feel it is like a plug and play development environment
+*Javascript*
+[source,javascript]
+--
+const filterName = (name) => name !== 'english';
+const capitalizeName = (name) => `${name[0].toUpperCase()}${name.substring(1)}`;
 
-Now I am learning NodeJS and everything it has to offer, from backend to frontend
-development, it may be a rough road (since I come from very OOP languages),
-but a nice challenge is always welcome
+console.log(
+  ['javascript', 'english', 'groovy']
+  .filter(filterName)
+  .map(capitalizeName)
+);
+// output = [ 'Javascript', 'Groovy' ]
+--
+
+*Java*
+[source,java]
+--
+// (Of course it is more verbose)
+Predicate<String> filterName = name -> !name.equals("english");
+Function<String, String> capitalizeName = name -> name.substring(0, 1).toUpperCase() + name.substring(1);
+
+List<String> list = new ArrayList<>();
+list.add("javascript");
+list.add("english");
+list.add("groovy");
+
+List<String> result = list.stream()
+    .filter(filterName)
+    .map(capitalizeName)
+    .collect(Collectors.toList());
+
+System.out.println(result);
+// output = [Javascript, Groovy]
+--
+
+One of the best things is that we can reuse *filterName* and *capitalizeName*
+functions (or closures in Groovy) in any other algorithms we want, but of course
+functional programming is much more than that, and I am all into it.
